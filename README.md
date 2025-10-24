@@ -7,12 +7,19 @@ The goal is to understand how magnitude, depth, location, and time influence tsu
 
 ## 📊 Dataset Features
 Feature	Description
-magnitude	Magnitude of the earthquake (Richter scale)
-cdi, mmi, sig, nst, dmin, gap	Seismological parameters (intensity, significance, etc.)
-depth	Depth of earthquake focus (in kilometers)
-latitude, longitude	Geographic coordinates of the earthquake
-Year, Month	Temporal information
-tsunami	Binary indicator (1 = tsunami event, 0 = non-tsunami)
+
+magnitude :	Magnitude of the earthquake (Richter scale).
+
+cdi, mmi, sig, nst, dmin, gap :	Seismological parameters (intensity, significance, etc.).
+
+depth :	Depth of earthquake focus (in kilometers).
+
+latitude, longitude :	Geographic coordinates of the earthquake.
+
+Year, Month :	Temporal information.
+
+tsunami	: Binary indicator (1 = tsunami event, 0 = non-tsunami).
+
 ## 🧠 Objectives
 
 Analyze the frequency and magnitude of earthquakes over time.
